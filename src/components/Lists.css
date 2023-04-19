@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(193, 244, 226);
+}
+ul {
+    list-style: none;
+}
+
+.title-heading {
+    text-align: center;
+    color: rgb(3, 70, 94);
+    margin: 1rem 0;
+}
+
+.outer {
+    width: 50%;
+    margin: auto;
+    margin-top: 3rem;
+    padding: 0.5rem 2rem 3rem 3rem;
+    background-color: rgb(196, 213, 227);
+    border-radius: 1rem;
+    box-shadow: 3px 5px 8px rgb(100, 95, 95);
+
+}
